@@ -1,29 +1,12 @@
-# [Bootstrap](http://getbootstrap.com) [![Bower version](https://badge.fury.io/bo/bootstrap.png)](http://badge.fury.io/bo/bootstrap) [![Build Status](https://secure.travis-ci.org/twbs/bootstrap.png)](http://travis-ci.org/twbs/bootstrap) [![devDependency Status](https://david-dm.org/twbs/bootstrap/dev-status.png?theme=shields.io)](https://david-dm.org/twbs/bootstrap#info=devDependencies)
-[![Selenium Test Status](https://saucelabs.com/browser-matrix/bootstrap.svg)](https://saucelabs.com/u/bootstrap)
-
-Bootstrap is a sleek, intuitive, and powerful front-end framework for faster and easier web development, created by [Mark Otto](http://twitter.com/mdo) and [Jacob Thornton](http://twitter.com/fat), and maintained by the [core team](https://github.com/twbs?tab=members) with the massive support and involvement of the community.
-
-To get started, check out <http://getbootstrap.com>!
+To get started, check out github pages documentation.
 
 ## Table of contents
 
- - [Quick start](#quick-start)
- - [Bugs and feature requests](#bugs-and-feature-requests)
- - [Documentation](#documentation)
- - [Compiling CSS and JavaScript](#compiling-css-and-javascript)
- - [Contributing](#contributing)
- - [Community](#community)
- - [Versioning](#versioning)
- - [Authors](#authors)
- - [Copyright and license](#copyright-and-license)
-
-## Quick start
-
 Three quick start options are available:
 
-- [Download the latest release](https://github.com/twbs/bootstrap/archive/v3.1.1.zip).
-- Clone the repo: `git clone https://github.com/twbs/bootstrap.git`.
-- Install with [Bower](http://bower.io): `bower install bootstrap`.
+- Clone the repo: `git clone repo-url`.
+- Checkout the branch: `git checkout branch gh-pages`.
+- Make a CNAME file and URL it: `touch CNAME && echo your-url.com >> CNAME`.
 
 Read the [Getting Started page](http://getbootstrap.com/getting-started/) for information on the framework contents, templates and examples, and more.
 
